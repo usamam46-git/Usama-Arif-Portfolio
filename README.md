@@ -47,7 +47,7 @@ Currently learning **Frontend Development**, and soon moving into **Backend** to
 &nbsp;  
 ## 📫 Connect  
 - GitHub: [usamam46-git](https://github.com/usamam46-git)  
-- LinkedIn: *(www.linkedin.com/in/muhammad-usama-805590180)*  
+- LinkedIn: *www.linkedin.com/in/muhammad-usama-805590180*  
 
 ---
 
