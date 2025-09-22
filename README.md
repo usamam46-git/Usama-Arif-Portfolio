@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/usamam46-git/Usama-Arif/blob/main/My%20portfolio.png?raw=true" alt="Usama Arif - Web Developer Banner" />
+  <img src="https://github.com/usamam46-git/Usama-Arif/blob/main/My%20Banner.png?raw=true" alt="Usama Arif - Web Developer Banner" />
 </p>
 
 # 👋 Hi, I’m Usama Arif  
@@ -23,6 +23,7 @@ Currently learning **Frontend Development**, and soon moving into **Backend** to
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)  
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?logo=bootstrap&logoColor=white&style=for-the-badge)
 
 &nbsp;  
 ## 📂 Projects Highlight  
