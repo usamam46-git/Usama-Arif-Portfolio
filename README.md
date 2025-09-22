@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/usamam46-git/Usama-Arif/blob/main/My%20Banner.png?raw=true" width="400px" alt="Usama Arif - Web Developer Banner" />
+  <img src="https://github.com/usamam46-git/Usama-Arif/blob/main/My%20Banner.png?raw=true" width="600px" alt="Usama Arif - Web Developer Banner" />
 </p>
 
 # 👋 Hi, I’m Usama Arif  
