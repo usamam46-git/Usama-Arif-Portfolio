@@ -11,7 +11,7 @@ Currently learning **Frontend Development**, and soon moving into **Backend** to
 ## 🚀 What I Do  
 - 🌱 Learning **HTML, CSS, JavaScript, React, Tailwind CSS**  
 - 🎯 Next: **Node.js, Express, and Databases**  
-- 🎬 Favorite Project: [Movie-Time](https://github.com/usamam46-git/movie-time)  
+- 🍸 Favorite Project: [Laofology](https://github.com/usamam46-git/Laofology)  
 
 &nbsp;  
 ## 🛠️ Tech Stack  
